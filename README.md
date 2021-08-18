@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Troxics
+- 👀 I’m speak Spanish
+- 🌱 I’m currently learning to program "World of Warcraft" servers with the help of the programming languages SQL and C++.
